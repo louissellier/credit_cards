@@ -1,4 +1,4 @@
-![Columbia University Logo]([https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Columbia_University_seal.svg/1200px-Columbia_University_seal.svg.png](https://en.wikipedia.org/wiki/Columbia_University#/media/File:Columbia_University_1754.svg))
+![Columbia University Logo](https://en.wikipedia.org/wiki/Columbia_University#/media/File:Columbia_University_1754.svg)
 
 # Credit Card Default Prediction Using AI
 
