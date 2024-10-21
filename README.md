@@ -1,4 +1,4 @@
-![Columbia University Logo](https://en.wikipedia.org/wiki/Columbia_University#/media/File:Columbia_University_1754.svg)
+![Columbia University Logo](https://uwm.edu/r2d2/wp-content/uploads/sites/438/2020/05/columbia-university-logo.jpg)
 
 # Credit Card Default Prediction Using AI
 
