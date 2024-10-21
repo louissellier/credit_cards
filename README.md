@@ -1,4 +1,6 @@
-![Columbia University Logo](https://uwm.edu/r2d2/wp-content/uploads/sites/438/2020/05/columbia-university-logo.jpg)
+<p align="center">
+  <img src="https://uwm.edu/r2d2/wp-content/uploads/sites/438/2020/05/columbia-university-logo.jpg" alt="Columbia University Logo" width="200"/>
+</p>
 
 # Credit Card Default Prediction Using AI
 
